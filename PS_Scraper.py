@@ -21,11 +21,11 @@ wait.until(lambda driver: driver.find_element_by_id('prohid'))
 stationId_element = driver.find_elements_by_id("PBData")
 numberofstations = int(input("Enter the current number of Stations\n"))
 locations = []
-print("Enter the Station Location Preferred(Enter line by line and type 'quit' when you are done):\n")
+print("Enter the Station Location Preferred(Enter line by line and type 'done' without quotes when you are done):\n")
 
 while 1:
     station = input()
-    if station.lower()=='quit':
+    if station.lower()=='done':
         break
     locations.append(station.lower())
 
