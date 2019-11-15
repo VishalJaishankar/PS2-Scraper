@@ -34,7 +34,12 @@ print(locations)
 
 stationInfo = []
 totalInfo = []
-
+stationInfo.append('Station Name')
+stationInfo.append('Location')
+stationInfo.append('Stipend')
+stationInfo.append('Disciplines allowed')
+totalInfo.append(stationInfo)
+stationInfo = []
 # for x in [1,2,3,4]:
 
 for x in range(1,numberofstations+1,1):
@@ -56,10 +61,13 @@ for x in range(1,numberofstations+1,1):
     #get the stipend
     stipend = driver.find_element_by_id("Stipend")
 
+    discipline = driver.find_element_by_xpath('/html/body/form/div[5]/div[1]/div/div[2]/div/table/tbody/tr/td[7]')
+
     #create the row that will be dumped in the csv
     stationInfo.append(name.text)
     stationInfo.append(loc.text)
     stationInfo.append(stipend.text)
+    stationInfo.append(discipline.text)
     #Testing purpose
     print(stationInfo)
     totalInfo.append(stationInfo)
