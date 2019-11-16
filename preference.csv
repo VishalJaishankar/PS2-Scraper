@@ -1,7 +1,145 @@
 Station Name,Location,Stipend,Disciplines allowed
-Aditya Birla Science & Technology Company Ltd.(Mumbai),Mumbai,0,A1
-Adobe Systems(Noida),Noida,100000,"A7 , AA , AnyA7 , AnyAA"
-Amazon - Operations Manager(Mumbai),Mumbai,60000,Any
-Amazon Operations(Mumbai),Mumbai,60000,"A1 , A2 , A3 , A4 , A8 , AA , AB"
-ASA Industries(Noida),Noida,0,"A3 , A4 , AB"
-Axxela Advisory Services(Mumbai),Mumbai,20000,"A1 , A2 , A3 , A4 , A5 , A7 , A8 , AA , AB , B3 , B4"
+ABB Global Industries and Services Private Limited(Bangalore),Bangalore,25000,"H101 , H112 , H123 , H124 , H140"
+Aditya Auto products & Engg (I) .P.Ltd.(Bangalore),Bangalore,20000,-
+Aditya Birla Group -Data and Analytics(Bangalore),Bangalore,30000,A7
+Adobe Systems(Bangalore),Bangalore,100000,"A7 , AA , AnyA7 , AnyAA"
+Aerchain(Bangalore),Bangalore,20000,Any
+Altair Engineering India Pvt. Ltd. - Software Division(Bangalore),Bangalore,20000,"A4 , A7"
+Amazon - Machine Learning(Bangalore),Bangalore,60000,"A7 , Any , H103"
+Amazon - Operations Manager(Bangalore),Bangalore,60000,Any
+Amazon Area Manager(Bangalore),Bangalore,60000,"A1 , A2 , A3 , A4 , A8 , AA , AB"
+Amazon Development Center(Bangalore),Bangalore,60000,-
+American Express - Big Data Labs (BDL)(Bangalore),Bangalore,100000,-
+American Express - Technology(Bangalore),Bangalore,100000,-
+AmericanExpress-RiskInformation-Management-Capabilities(RIM-C)(Bangalore),Bangalore,30000,-
+Analog Devices India Pvt. Ltd.(Bangalore),Bangalore,25000,"H123 , H140"
+ARM Embedded Technologies Private Limited(Bangalore),Bangalore,28000,"A3 , A7 , AA"
+Ati Motors(Bangalore),Bangalore,30000,"A3 , A7 , A8 , AA , B4A3 , B5A3 , B4A7 , B4A8 , B5A8 , B4AA"
+Aurigo Software Technologies(Bangalore),Bangalore,35000,"A3 , A7 , A8 , Any"
+Avaamo(Bangalore),Bangalore,75000,A7
+Avail Finance(Bangalore),Bangalore,60000,"A3 , A7 , AA , B3 , B4"
+belong.co(Bangalore),Bangalore,0,-
+Blue Jeans Network India Pvt. Ltd.(Bangalore),Bangalore,50000,"A7 , AnyA7"
+Bosch Research and Technology center(Bangalore),Bangalore,30000,Any
+Bundl Technologies Private Limited (Swiggy) - Nontech(Bangalore),Bangalore,40000,A7
+Capillary Technologies - Customer Success(Bangalore),Bangalore,15000,Any
+Capillary Technologies - Testing Automation(Bangalore),Bangalore,35000,"A7 , AA , Any , B4 , H103 , H112"
+CDM Smith Global Resource Center(Bangalore),Bangalore,15000,"H143 , H148"
+Cisco Systems (India) Pvt. Ltd - Software Engineering(Bangalore),Bangalore,70000,"A7 , AA , H103 , H112 , H123 , H124 , H140 , H313 , B4A7 , B5A7 , B4AA , B5AA"
+Cisco Systems (India) Pvt. Ltd. - Hardware (Bangalore),Bangalore,70000,H123
+Clumio India Technologies India LLP(Bangalore),Bangalore,100000,"A7 , C6 , H103 , H112 , H313"
+COGOS Technologies Pvt Ltd.(Bangalore),Bangalore,20000,"A7 , A8 , AA , H103 , H112 , H140 , H149"
+Confluent India Pvt Ltd.(Bangalore),Bangalore,100000,A7
+Couture AI(Bangalore),Bangalore,0,"A7 , B4A7"
+CureFit Healthcare Pvt. Ltd.(Bangalore),Bangalore,50000,A7
+Cypress Semiconductor India Pvt Ltd.(Bangalore),Bangalore,0,H140
+Dell R&D(Bangalore),Bangalore,30000,"A7 , H103 , H112 , AnyA7"
+Drishti(Bangalore),Bangalore,50000,A7
+Dunzo Digital Pvt. Ltd.(Bangalore),Bangalore,50000,"A7 , H103 , H313"
+Edelweiss Global Investment Advisors (EGIA)(Bangalore),Bangalore,0,"A7 , D2 , H103 , H141 , H313"
+eGovernments Foundation(Bangalore),Bangalore,0,"A3 , A7 , A8 , AA , H149"
+Eloquent Info Solutions Pvt. Ltd.(Bangalore),Bangalore,75000,A7
+Enphase Energy(Bangalore),Bangalore,50000,H142
+EnSci - A Unit of Weir Minerals India Pvt. Ltd.(Bangalore),Bangalore,0,-
+Ernst & Young Global Delivery Services(Bangalore),Bangalore,40000,"A7 , A8 , B4"
+Flipkart Analytics(Bangalore),Bangalore,50000,"A7 , AnyA7 , A7B4"
+GE Digital(Bangalore),Bangalore,0,"H103 , H112"
+GE India Technology Centre(Bangalore),Bangalore,0,"H103 , H106 , H112 , H141 , H142"
+Genpact(Bangalore),Bangalore,0,-
+GET MY Parking(Bangalore),Bangalore,50000,A7
+Goldman Sachs - Investment Banking(Bangalore),Bangalore,0,-
+Goldman Sachs India Pvt. Ltd. - Operations(Bangalore),Bangalore,0,-
+Goodera (NextGen PMS Pvt. Ltd)- Non IT(Bangalore),Bangalore,0,-
+Goodera (NextGen PMS) - IT(Bangalore),Bangalore,0,-
+Grannus Premier Wellness Services Pvt. Ltd.(Bangalore),Bangalore,20000,Any
+Groww - Software Development(Bangalore),Bangalore,51000,"A7 , H103 , AnyA7"
+Harness(Bangalore),Bangalore,80000,A7
+Hindustan Unilever Research Centre(Bangalore),Bangalore,20000,A1
+HSBC (WMR/GAC/DATA SCIENTIST)(Bangalore),Bangalore,50000,"H103 , H112 , H149"
+HSBC Portfolio Management Analytics (PMA)(Bangalore),Bangalore,50000,H149
+HSBC Strategic Transaction Group (STG)(Bangalore),Bangalore,50000,H149
+IBM Security - Fiberlink(Bangalore),Bangalore,0,-
+Infinera(Bangalore),Bangalore,35000,"A3 , A8 , AA , Any , H123 , H124 , H140"
+Ingersoll Rand India Ltd(Bangalore),Bangalore,15000,"H106 , H141 , H148"
+InMobi - Product Analyst(Bangalore),Bangalore,35000,A7
+InMobi - Software Development(Bangalore),Bangalore,40000,A7
+InMobi- Business Development(Bangalore),Bangalore,35000,"A1 , A2 , A3 , A4 , A7 , A8 , B3 , B4 , B5 , H103 , H106 , H112 , H123 , H124 , H140 , H141"
+Intel India Technology (Bangalore),Bangalore,30000,"A3 , A7 , H112 , H123 , H140"
+ION Energy(Bangalore),Bangalore,0,H140
+IQVIA(Bangalore),Bangalore,20000,"A3 , A5 , H101 , H103 , H106 , H108 , H129 , H146 , H147 , H149"
+JDA Software Solutions(Bangalore),Bangalore,25000,"A3 , A7 , A8 , AA , C6 , H103 , AnyA7"
+John F Welch Technology Center (GE)(Bangalore),Bangalore,30000,"A4 , H106 , H141 , H142 , H148"
+JPMS (Finance) GR&C Model Risk Governance and Review - Challenger(Bangalore),Bangalore,50000,H149
+JPMS (Finance) GR&C Strategic Risk Analytics(Bangalore),Bangalore,50000,"B3 , B4 , C7"
+JPMS - GR&C Commercial Banking Risk (Bangalore),Bangalore,50000,H149
+Juniper Networks(Bangalore),Bangalore,0,-
+Kruzr Mobility Technology Solutions Pvt. Ltd.(Bangalore),Bangalore,25000,"A3 , A7 , AA , B4 , AnyA3 , AnyA7 , AnyAA , AnyB4"
+Lenskart(Bangalore),Bangalore,25000,"A3 , A7 , AA , H103 , H112 , AnyA7"
+Lowe’ Services India Pvt. Ltd.(Bangalore),Bangalore,37000,A5
+Maxim Integrated(Bangalore),Bangalore,25000,H123
+MediaTek Bangalore Pvt. Ltd.(Bangalore),Bangalore,0,H124
+Mentor Graphics(Bangalore),Bangalore,0,-
+Mercedes Benz(Bangalore),Bangalore,25000,"A4 , H106 , H141 , H148"
+Molecular Connections Pvt. Ltd.(Bangalore),Bangalore,15000,"A5 , B1 , B2 , H106 , H108 , H124 , H129 , H147"
+Myntra.com(Bangalore),Bangalore,30000,Any
+National Centre for Biological Sciences(Bangalore),Bangalore,0,-
+National Instruments Systems (India) Pvt. Ltd.(Bangalore),Bangalore,0,"H103 , H112 , H123 , H124 , H140"
+Nedo Software Pvt. Ltd.(Bangalore),Bangalore,25000,"A7 , Any"
+NetApp(Bangalore),Bangalore,35000,A7
+Netradyne(Bangalore),Bangalore,30000,"A7 , H103"
+Nreach Online Services Pvt. Ltd.(Bangalore),Bangalore,20000,H149
+Nutanix Technologies India Pvt. Ltd.(Bangalore),Bangalore,90000,"A7 , C6 , H103 , H112 , H313 , A7B1 , A7B2 , A7B3 , A7B4 , A7B5"
+Nvidia Graphics - Hardware(Bangalore),Bangalore,35000,"A3 , A7 , A8 , AA , H123 , H140"
+Nvidia Graphics -Software(Bangalore),Bangalore,35000,"A3 , A7 , A8 , AA , H103 , H112 , H140"
+NXP India Pvt Ltd.(Bangalore),Bangalore,28000,H140
+OPDlift (Healthlift Pvt. Ltd.)(Bangalore),Bangalore,20000,H149
+Oracle India Pvt Ltd.(Bangalore),Bangalore,0,H103
+Oyo Rooms (Tech)(Bangalore),Bangalore,45000,"A3 , A7 , A8 , AA , AnyA3 , AnyA7 , AnyA8 , AnyAA"
+PAYPAL(Bangalore),Bangalore,50000,"A7 , H103 , H112"
+Petasense - Services & App Development(Bangalore),Bangalore,43000,"A7 , H103 , AnyA3 , AnyA7"
+Planet Express Innovations Pvt Ltd(Bangalore),Bangalore,20000,"A3 , H140"
+Porter(Bangalore),Bangalore,70000,A7
+PricewaterhouseCoopers (PWC)(Bangalore),Bangalore,40000,-
+Publicis Sapient (Bangalore),Bangalore,35000,"A7 , H103 , AnyA7"
+Qualcomm India Pvt Ltd- Bangalore(Bangalore),Bangalore,0,"H103 , H123 , H140"
+Qubole(Bangalore),Bangalore,90000,A7
+Robert Bosch Center for Cyber Physical Systems(Bangalore),Bangalore,10000,A7
+Samsung R & D Institute(Bangalore),Bangalore,50000,"A3 , A7 , AA , H103 , H112 , H124"
+Samsung Semiconductor India R&D Center-Hardware(Bangalore),Bangalore,50000,"A3 , A8 , H123 , B4A3 , B5A3 , B4A8 , B5A8"
+Samsung Semiconductor India Research -Software(Bangalore),Bangalore,50000,"A3 , A7 , A8 , B4 , B5 , H103 , H123 , H140"
+SAP Labs(Bangalore),Bangalore,50000,A7
+Sattva Media & Consulting Pvt Ltd(Bangalore),Bangalore,0,-
+Servicenow Software Development India(Bangalore),Bangalore,35000,"A3 , A7 , AA , B4"
+Setu(Bangalore),Bangalore,50000,A7
+Shell Technology Center(Bangalore),Bangalore,20000,A1
+Siemens technology and Services Pvt ltd(Bangalore),Bangalore,0,-
+SigmaQuant Technologies Pvt. Ltd.(Bangalore),Bangalore,40000,"A3 , A7"
+Signalchip Innovations Pvt. Ltd.(Bangalore),Bangalore,8000,"A3 , A8 , Any"
+Strand Life Sciences Pvt Ltd(Bangalore),Bangalore,0,-
+Sun Mobility(Bangalore),Bangalore,15000,-
+Symantec Software Solutions Pvt. Ltd.(Bangalore),Bangalore,0,-
+Synopsys (India) EDA Software Pvt Ltd.(Bangalore),Bangalore,35000,H123
+Tata Consultancy Services(Bangalore),Bangalore,20000,"A3 , A7 , H103 , H140 , A7A3 , A3A7"
+Tata Consulting Engineer (TCE)(Bangalore),Bangalore,0,"A2 , H143"
+Tata Digital Health(Bangalore),Bangalore,45000,"A1 , A2 , A3 , A4 , A7 , A8 , AA , AB"
+Tejas Networks(Bangalore),Bangalore,0,"H103 , H123 , H140"
+Texas Instruments (I) Pvt. Ltd - Systems(Bangalore),Bangalore,40000,"A3 , A8"
+Texas Instruments (I) Pvt. Ltd. -Analog(Bangalore),Bangalore,40000,"A3 , A8"
+Texas Instruments (I) Pvt. Ltd. -Digital(Bangalore),Bangalore,40000,"H123 , H124"
+Udaan(Bangalore),Bangalore,35000,Any
+Udhyam Learning Foundatation(Bangalore),Bangalore,26000,-
+Urban Ladder(Bangalore),Bangalore,30000,"A1 , A2 , A3 , A4 , A5 , A7 , A8 , AA , AB"
+Valorem Stack Pvt. Ltd. (FloBiz)(Bangalore),Bangalore,35000,"A3 , A7 , A8 , B3A3 , B5A7"
+Valorem Stack Pvt. Ltd. (FloBiz) Operations(Bangalore),Bangalore,25000,Any
+Viacom 18 Media Pvt. Ltd. - Digital Ventures(Bangalore),Bangalore,30000,"A1 , A4 , A7 , AB"
+Visteon Corporation(Bangalore),Bangalore,0,H141
+VMware Software India Pvt. Ltd.(Bangalore),Bangalore,50000,"A7 , C6 , H103 , H112 , H313 , A7B1 , A7B2 , A7B3 , A7B4 , A7B5"
+Walmart Global Technology Services(Bangalore),Bangalore,50000,"A3 , A7 , A8 , AA , H103 , H112 , H141 , H313"
+Western Digital (SANDISK)(Bangalore),Bangalore,0,"H103 , H123 , H124 , H140"
+WickedRide Adventure Ltd.(Bounce)(Bangalore),Bangalore,60000,"A3 , A7 , A8"
+William O Neil India Pvt Ltd(Bangalore),Bangalore,40000,"A1 , A2 , A3 , A4 , A5 , A7 , A8 , AA , AB , AnyB3 , A7C7"
+Xola Travels Pvt. Ltd.(Bangalore),Bangalore,45000,A7
+Zendrive India Pvt Ltd(Bangalore),Bangalore,60000,"A3 , A7 , A8 , AA , AnyA3 , AnyA7 , AnyA8 , AnyAA"
+Zeotap India Pvt. Ltd.(Bangalore),Bangalore,65000,"A7 , C6 , H103 , H112 , H313 , AnyA7 , AnyC6"
+Zinnov Management Consulting Pvt. Ltd (IT Project)(Bangalore),Bangalore,30000,A7
+"Zinnov Management Consulting Pvt. Ltd.,(Bangalore)",Bangalore,18000,"A1 , A2 , A3 , A4 , A7 , A8 , AA , AB"

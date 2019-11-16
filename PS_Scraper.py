@@ -54,7 +54,12 @@ for x in range(1,numberofstations+1,1):
     name = driver.find_element_by_xpath("/html/body/form/div[4]/div/div[2]/div/table/tbody/tr["+str(x)+"]/td[3]")
 
     #To get the stipend clicking the view button
-    driver.find_element_by_xpath("/html/body/form/div[4]/div/div[2]/div/table/tbody/tr["+str(x)+"]/td[6]/a").click()
+    clicker = driver.find_elements_by_xpath("/html/body/form/div[4]/div/div[2]/div/table/tbody/tr["+str(x)+"]/td[6]/a")
+    print(clicker)
+    if len(clicker)>0:
+        clicker[0].click()
+    else:
+        continue
     #wait till the stipend field is not empty
     wait.until(lambda driver: len(driver.find_element_by_xpath('/html/body/form/div[5]/div[1]/div/div[2]/div/table/tbody/tr[1]/td[3]').text)!=0)
 
